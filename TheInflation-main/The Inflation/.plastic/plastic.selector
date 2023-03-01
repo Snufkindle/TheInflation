@@ -1,0 +1,3 @@
+rep "CapstoneGame@CapstonerBoys@cloud"
+  path "/"
+    smartbranch "/main"

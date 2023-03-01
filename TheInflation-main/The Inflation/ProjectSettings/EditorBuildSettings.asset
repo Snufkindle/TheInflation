@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: bb6898342a111834799453b492f35d35
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 3c335a31776f0b34f9d466b2c9d3bfdf
+  - enabled: 1
+    path: Assets/Scenes/EnterName.unity
+    guid: 379b7d85e24c3db4fabf36fdd6d8539b
+  - enabled: 1
+    path: Assets/Scenes/Week1.unity
+    guid: bede2482e43cf1242a0ea071139d4f06
+  - enabled: 1
+    path: Assets/Scenes/Week2.unity
+    guid: db18e7101d4ec894c8a9ef2495703dc2
+  - enabled: 1
+    path: Assets/Scenes/Week3.unity
+    guid: 447d2220c16d7144fad376bee1bc787d
+  - enabled: 1
+    path: Assets/Scenes/Week4.unity
+    guid: b460ad38f1a67854fa3504d6f5dd5893
+  - enabled: 1
+    path: Assets/Scenes/WeeklyReport.unity
+    guid: d04c28ee635f0a14aba6b20b332129df
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 049af3e5d9660a643b82f66205bb0297
+  - enabled: 1
+    path: Assets/Scenes/Ending Scene.unity
+    guid: 98ffdcfd947036c479938a95e9b27137
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
